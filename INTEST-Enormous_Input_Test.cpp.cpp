@@ -26,6 +26,7 @@ int main()
 
         if(x%k == 0 && x != 0) cnt++;
     }
+    
     cout << cnt << endl;
 
     return 0;
